@@ -30,7 +30,7 @@ extern "C" {
 #include <sys/socket.h>     // Needed for AF_INET*
 #endif
 
-#include <daq_common.h>
+#include "daq_common.h"
 
 /* Library version information functions. */
 DAQ_LINKAGE uint32_t daq_version_number(void);

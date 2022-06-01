@@ -1,0 +1,4 @@
+/Users/ethan/libdaq/api/build/CMakeFiles/lib.dir
+/Users/ethan/libdaq/api/build/CMakeFiles/main.dir
+/Users/ethan/libdaq/api/build/CMakeFiles/edit_cache.dir
+/Users/ethan/libdaq/api/build/CMakeFiles/rebuild_cache.dir

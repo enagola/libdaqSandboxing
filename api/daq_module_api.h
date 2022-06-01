@@ -26,7 +26,7 @@
 extern "C" {
 #endif
 
-#include <daq_common.h>
+#include "daq_common.h"
 
 typedef int (*daq_module_set_filter_func) (void *handle, const char *filter);
 typedef int (*daq_module_start_func) (void *handle);
